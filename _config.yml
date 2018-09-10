@@ -23,21 +23,26 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/TheMatthewWest
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/mwestt
     desc:	Fork me on github
 
-  - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
-    desc:	Add me on google+
+  # - icon:	googleplus-alt
+  #   url:	https://google.com/+IanCamporezBrunelli
+  #   desc:	Add me on google+
 
-  - icon:	feed
-    url:	http://camporez.com/atom.xml
-    desc:	Subscribe to my feed
-    
+  # - icon:	feed
+  #   url:	http://camporez.com/atom.xml
+  #   desc:	Subscribe to my feed
+
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/mwestt/
+    desc:	Connect with me on linkedin
+  
+
 menu:
   - title:	Home
     url:	/
@@ -46,7 +51,7 @@ menu:
     url:	/about
     
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
-  type_title:	Some rights reserved
-  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+  author:	Based on Thinny by Ian Brunelli
+  url: https://github.com/brunelli 
+  type_title:	MIT License
+  type_url: https://github.com/camporez/Thinny/blob/master/LICENSE
