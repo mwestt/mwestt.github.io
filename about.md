@@ -11,7 +11,7 @@ I'm interested in discovering hidden stories from data, and using them to solve
 human problems. I love travelling to unusal places, and I'm a huge geography nerd.
 
 I completed my masters degree in physics with theoretical physics at the 
-University of Manchester in 2017, where I researched [Bayesian inference](https://drive.google.com/file/d/1fV6HB7wGF7PJa3SLyz1GXGkPLRz3RPOJ/view?usp=sharing) and its 
+University of Manchester in 2017, where I researched [Bayesian inference](https://drive.google.com/file/d/1fV6HB7wGF7PJa3SLyz1GXGkPLRz3RPOJ/view?usp=sharing) and its
 application as a diagnostic tool in Alzheimer's disease. I spent my third year abroad at the 
 [University of Toronto](https://www.physics.utoronto.ca/~nonlin/abstracts/MWest_479_report_2016_abstract.html). 
 
