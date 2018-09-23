@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-use_math: true
+mathjax: true
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
@@ -20,12 +20,11 @@ If you'd like to work on a project together, send me an [email](mailto:m.west271
 or contact me through [LinkedIn](https://www.linkedin.com/in/mwestt/).
 
 ## Skills
-
 <ul class="skill-list">
 	<li>Python</li>
 	<li>R</li>
 	<li>MATLAB</li>
-	<li>Latex</li>
+	<li>$$\LaTeX$$</li>
 	<li>Linux</li>
 	<li>Git</li>
 	<li>scikit-learn</li>
