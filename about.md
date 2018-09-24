@@ -24,7 +24,7 @@ or contact me through [LinkedIn](https://www.linkedin.com/in/mwestt/).
 	<li>Python</li>
 	<li>R</li>
 	<li>MATLAB</li>
-	<li>$$\LaTeX$$</li>
+	<li>LaTeX</li>
 	<li>Linux</li>
 	<li>Git</li>
 	<li>scikit-learn</li>
