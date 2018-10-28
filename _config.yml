@@ -3,7 +3,7 @@ name: Matthew West
 bio: Data scientist at Arblet Inc
 
 # twitter summary info
-description: A blog about technology and stuff.
+description: Data and stuff.
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,8 +30,8 @@ analytics-google: 'UA-126028533-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: # mydisqus # enter this from your disqus account
-  categories: # [blog, project] # only show disqus for posts that have these categories
+  shortname: mwestt # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -48,7 +48,7 @@ github: mwestt
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: m.west2718
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: m.west2718@@gmail.com
@@ -90,7 +90,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: True
 
 # do you want some animations?
 animation: true
