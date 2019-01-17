@@ -12,9 +12,9 @@ picture: assets/images/ghubpic.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1qa-LxjEuwkFItjwDILzI_OO00vpXe6Iv/view?usp=sharing
 
 url: https://mwestt.github.io
 # your url: http://USERNAME.github.io
