@@ -24,7 +24,7 @@ This dataset was the corresponding raw image data to the [Wisconsin Breast Cance
 
 As this dataset is very small, this improvement in classification performance demonstrates that ImageNet weights and architectures can provide useful features for classification problems on data that differ significantly from ImageNet data. Despite working well for such a small dataset, this does not appear to be the case for medical imaging in general, and it is evident that transfer learning applications in medical imaging would benefit greatly from having their own benchmark dataset. This idea and several others are explored in detail by [Maithra Raghu](https://twitter.com/maithra_raghu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) et al. in [this conference paper](https://arxiv.org/abs/1902.07208) from NeurIPS 2019. 
 
-The PDF of the report is embedded below, or access the [version on google drive](https://drive.google.com/open?id=1dxnx8sTwUeU7kLTjMS-kvfIhBtRyebS6) directly. Here is a [link to the GitHub repository](https://github.com/mwestt/MIT-6.862) for associated files relevant to the project.
+The PDF of the report is embedded below, or access the [version on Google Drive](https://drive.google.com/open?id=1dxnx8sTwUeU7kLTjMS-kvfIhBtRyebS6) directly. Here is a [link to the GitHub repository](https://github.com/mwestt/MIT-6.862) for associated files relevant to the project.
 
 
 ---

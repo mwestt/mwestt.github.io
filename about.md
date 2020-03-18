@@ -7,7 +7,7 @@ mathjax: true
 
 Hi there, I'm Matt. 
 
-I'm currently a [Frank Knox Fellow](https://frankknox.harvard.edu/) 
+I'm currently a [Frank Knox Fellow](https://frankknox.harvard.edu/people/matthew-west) 
 at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), 
 where I study computational biology.
 <!-- <a href="https://www.arblet.com/" style="text-decoration: none; font-weight:bold; color:rgb(0,0,0)"> Arblet Inc.</a>. -->
@@ -28,6 +28,7 @@ or contact me through [LinkedIn](https://www.linkedin.com/in/mwestt/).
 	<li>Python</li>
 	<li>R</li>
 	<li>MATLAB</li>
+	<li>SQL</li>
 	<li>LaTeX</li>
 	<li>Linux</li>
 	<li>Git</li>
@@ -36,11 +37,4 @@ or contact me through [LinkedIn](https://www.linkedin.com/in/mwestt/).
 	<li>GPU Programming</li>
 	<li>Jupyter notebook</li>
 </ul>
-<!-- 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul> -->
