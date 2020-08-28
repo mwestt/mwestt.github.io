@@ -20,7 +20,7 @@ application as a diagnostic tool in Alzheimer's disease. I spent my third year a
 [University of Toronto](https://www.physics.utoronto.ca/~nonlin/abstracts/MWest_479_report_2016_abstract.html). 
 
 Since then, I've worked as a data scientist at [Arblet](http://www.arblet.com/) in Tokyo, and more recently on freelance projects in a variety of 
-locations. If you'd like to discuss working on a project together, send me an [email](mailto:m.west2718@gmail.com),
+locations, as well as a summer at [BioMarin](https://www.biomarin.com/). If you'd like to discuss working on a project together, send me an [email](mailto:m.west2718@gmail.com),
 or contact me through [LinkedIn](https://www.linkedin.com/in/mwestt/).
 
 ## Skills
