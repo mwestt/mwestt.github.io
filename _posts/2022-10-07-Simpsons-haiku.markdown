@@ -27,8 +27,6 @@ mathjax: True
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/mwestt/simpsons-haiku/blob/main/LICENSE)
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/SimpsonsHaiku)
 
-# Introduction
-
 For anyone who knows me, they'll attest that The Simpsons has had an undue impact on my life, being formative through my early years and enduring to the present moment. That contribution spanned curating a sense of humour deeply anchored in an appreciation for the surreal, a continued love of animation, or exposure to the depths of obscure Americana (thank you, John Swartwzelder).
 
 This project is the implementation of an idea I had long ago, inspired by [@nythaikus](https://twitter.com/nythaikus). Naturally, I'd been looking for an excuse to explore the world of The Simpsons via a data science project, and it finally came to fruition in the form of this Twitter bot. The dataset used here is hosted [on Kaggle here](https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset), and was originally scraped by [Todd Schneider](https://toddwschneider.com/posts/the-simpsons-by-the-data/), covering the first 26 seasons. 
