@@ -31,7 +31,7 @@ For anyone who knows me, they'll attest that The Simpsons has had an undue impac
 
 This project is the implementation of an idea I had long ago, inspired by [@nythaikus](https://twitter.com/nythaikus). Naturally, I'd been looking for an excuse to explore the world of The Simpsons via a data science project, and it finally came to fruition in the form of this Twitter bot. The dataset used here is hosted [on Kaggle here](https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset), and was originally scraped by [Todd Schneider](https://toddwschneider.com/posts/the-simpsons-by-the-data/), covering the first 26 seasons. 
 
-The GitHub repo for this project can be found [here](https://github.com/mwestt/simpsons-haiku). The bot itself is deployed via a GCP Cloud Function, and is running here, [@SimpsonsHaiku](https://twitter.com/nythaikus). (Or at least it was, subject to auth issues since the API revamp, thanks Elon).
+The GitHub repo for this project can be found [here](https://github.com/mwestt/simpsons-haiku). The bot itself is deployed via a GCP Cloud Function, and is running here, [@SimpsonsHaiku](https://twitter.com/SimpsonsHaiku). (Or at least it was, subject to auth issues since the API revamp, thanks Elon).
 
 
 
