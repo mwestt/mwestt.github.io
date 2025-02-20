@@ -7,7 +7,7 @@ mathjax: true
 
 Hi there, I'm Matt. 
 
-I'm currently a Solution Architect at [Tempus](https://www.tempus.com/), where I work on the [Lens](https://www.tempus.com/life-sciences/lens/) platform for oncology data science. I'm interested in discovering hidden stories from data, and using them to solve human problems.
+I'm currently a Machine Learning Scientist at [Tempus](https://www.tempus.com/), where I work on Generative AI applications and the [Lens](https://www.tempus.com/life-sciences/lens/) platform for oncology data science. I'm interested in discovering hidden stories from data, and using them to solve human problems.
 
 I completed my first master's degree in physics at the 
 University of Manchester, where I researched [Bayesian inference](https://drive.google.com/file/d/1fV6HB7wGF7PJa3SLyz1GXGkPLRz3RPOJ/view?usp=sharing) and its application as a diagnostic tool in Alzheimer's disease. I spent my third year abroad at the 
