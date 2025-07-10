@@ -25,7 +25,7 @@ or contact me through [LinkedIn](https://www.linkedin.com/in/mwestt/).
 	<li>SQL</li>
 	<li>Torch</li>
 	<li>LangChain</li>
-	<li>LangGrapg</li>
+	<li>LangGraph</li>
 	<li>LaTeX</li>
 	<li>Linux</li>
 	<li>Git</li>
