@@ -22,8 +22,10 @@ or contact me through [LinkedIn](https://www.linkedin.com/in/mwestt/).
 <ul class="skill-list">
 	<li>Python</li>
 	<li>R</li>
-	<li>MATLAB</li>
 	<li>SQL</li>
+	<li>Torch</li>
+	<li>LangChain</li>
+	<li>LangGrapg</li>
 	<li>LaTeX</li>
 	<li>Linux</li>
 	<li>Git</li>
